@@ -1,0 +1,8 @@
+num1=int(input("Digite um número"))
+num2=int(input("Digite outro número"))
+soma=int(num1+num2)
+sub=int(num1-num2)
+mul=int(num1*num2)
+print(soma)
+print(sub)
+print(mul)
